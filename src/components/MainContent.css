@@ -1,0 +1,26 @@
+main {
+    padding: 20px;
+}
+
+.highlighted-news {
+    display: flex;
+    gap: 10px;
+}
+
+.highlighted-news article {
+    flex: 1;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+.services {
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.services > div {
+    flex: 1;
+    padding: 20px;
+    background-color: #e4e4e4;
+}
