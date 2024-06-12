@@ -18,7 +18,7 @@ const MainContent = () => {
                     <p>Transform your possibilities into reality with TEAM NAVER!</p>
                 </article>
             </section>
-            <h2>바로가기</h2>
+            <h2>주요 서비스 및 기술</h2>
             <section className="services">
                 <div>데이터센터 각 세종</div>
                 <div>GENERATIVE AI</div>
