@@ -5,7 +5,6 @@ const Header = () => {
     return (
         <header>
             <div className="header-top">
-                <a href="#skip-navigation" className="skip-navigation">Skip to navigation</a>
                 <nav>
                     <ul>
                         <li>NAVER</li>
