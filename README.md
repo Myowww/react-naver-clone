@@ -1,8 +1,9 @@
-# React + Vite
+### navercorp 클론
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+프로젝트 설명 : 웹프로그래밍 수행평가로 제작한 네이버 클론 웹
+개발기간 : 
+작품을 제작한 이유
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+아쉬웠던 점 : 
+개발하면서 느낀점(좋았던 점, 아쉬웠던 점)
+향후 계획 (작품 및 공부에 대한 계획) 
